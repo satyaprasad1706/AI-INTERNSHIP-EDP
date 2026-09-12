@@ -1,0 +1,104 @@
+Python
+Java
+C
+C++
+C#
+JavaScript
+TypeScript
+HTML
+CSS
+SQL
+MySQL
+PostgreSQL
+MongoDB
+Oracle
+SQLite
+Spring
+Spring Boot
+Hibernate
+React
+Angular
+Vue
+Node.js
+Express
+Django
+Flask
+FastAPI
+REST API
+GraphQL
+Git
+GitHub
+GitLab
+Docker
+Kubernetes
+Jenkins
+CI/CD
+Linux
+AWS
+Azure
+Google Cloud
+GCP
+Terraform
+Ansible
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Natural Language Processing
+NLP
+Computer Vision
+TensorFlow
+PyTorch
+Keras
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+OpenCV
+Data Science
+Data Analysis
+Data Visualization
+Power BI
+Tableau
+Excel
+Statistics
+Regression
+Predictive Analytics
+Data Modeling
+Data Warehousing
+Big Data
+Hadoop
+Spark
+Kafka
+Hive
+Redis
+Elasticsearch
+Cybersecurity
+Network Security
+Ethical Hacking
+Penetration Testing
+Vulnerability Assessment
+Security Monitoring
+SIEM
+Splunk
+Wireshark
+Cryptography
+Firewalls
+TCP/IP
+Networking
+Computer Networks
+Operating Systems
+Data Structures
+Algorithms
+Object Oriented Programming
+OOP
+DBMS
+Database Management
+Software Engineering
+System Design
+Microservices
+Blockchain
+Solidity
+Ethereum
+Web3
+Smart Contracts

@@ -1,0 +1,37 @@
+Job Title:
+Junior Python Developer / Machine Learning Engineer
+
+We are looking for a motivated candidate with strong programming and data science skills.
+
+Required Skills:
+Python
+SQL
+Machine Learning
+Pandas
+NumPy
+Scikit-learn
+Git
+GitHub
+REST API
+FastAPI
+Docker
+
+Preferred Skills:
+TensorFlow
+PyTorch
+AWS
+Linux
+Data Visualization
+
+Responsibilities:
+- Develop Python applications.
+- Build machine learning models.
+- Perform data preprocessing and analysis.
+- Work with SQL databases.
+- Develop REST APIs.
+- Use Git and GitHub for version control.
+- Deploy applications using Docker.
+- Collaborate with software engineering teams.
+
+Education:
+B.Tech or equivalent degree in Computer Science, Information Technology, Data Science or related field.
