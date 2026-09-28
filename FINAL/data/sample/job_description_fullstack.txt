@@ -1,0 +1,24 @@
+Job Title: Senior Full Stack Developer
+Company: InnovateTech Solutions
+Location: Bangalore, India (Hybrid)
+Experience: 3+ years
+
+Job Description:
+We are looking for an experienced Full Stack Developer to build modern, high-performance web applications.
+The ideal candidate will design scalable RESTful APIs, develop intuitive frontend user interfaces, and collaborate with cross-functional teams.
+
+Required Technical Skills:
+- Python
+- React
+- Next.js
+- TypeScript
+- PostgreSQL
+- Docker
+- Git
+- REST API
+- AWS
+
+Key Responsibilities:
+- Build modular, maintainable full-stack software components.
+- Integrate frontend client interfaces with secure backend microservices.
+- Optimize database queries and ensure high system availability.

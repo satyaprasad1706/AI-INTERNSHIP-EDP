@@ -1,0 +1,16 @@
+Pooja Gupta
+Email: pooja.gupta@example.com | Phone: +91 9711223344
+LinkedIn: https://linkedin.com/in/poojagupta-dev | GitHub: https://github.com/poojagupta
+Education: MCA, Delhi University
+Experience: Fresher
+
+Professional Summary:
+Recent MCA graduate with solid foundations in data structures, algorithms, and full-stack JavaScript.
+
+Technical Skills:
+JavaScript, HTML, CSS, React, Node.js, Express, MongoDB, Git, Data Structures, Algorithms
+
+Key Projects & Experience:
+Developed full-stack task management application with MongoDB, Express, React, and Node (MERN).
+- Utilized agile methodologies and version control for collaborative development.
+- Delivered robust software solutions adhering to clean code standards and system design principles.

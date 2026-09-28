@@ -1,0 +1,16 @@
+Priya Sharma
+Email: priya.sharma@example.com | Phone: +91 9811122233
+LinkedIn: https://linkedin.com/in/priyasharma-ai | GitHub: https://github.com/priyasharma
+Education: M.Tech in Artificial Intelligence, BITS Pilani
+Experience: 3+ years of experience
+
+Professional Summary:
+Data Scientist and NLP Specialist with extensive work in Deep Learning and predictive modeling.
+
+Technical Skills:
+Python, Machine Learning, Deep Learning, NLP, Pandas, NumPy, Scikit-learn, PyTorch, SQL, Git, spaCy
+
+Key Projects & Experience:
+Implemented multi-class document classification pipeline achieving 94% F1-score with spaCy and Scikit-learn.
+- Utilized agile methodologies and version control for collaborative development.
+- Delivered robust software solutions adhering to clean code standards and system design principles.

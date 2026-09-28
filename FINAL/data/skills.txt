@@ -1,0 +1,112 @@
+Python
+Java
+C
+C++
+C#
+JavaScript
+TypeScript
+PHP
+Ruby
+Go
+Rust
+Kotlin
+Swift
+HTML
+HTML5
+CSS
+CSS3
+Tailwind CSS
+Bootstrap
+Sass
+SQL
+MySQL
+PostgreSQL
+SQLite
+MongoDB
+Redis
+Cassandra
+Oracle
+Firebase
+React
+ReactJS
+Angular
+Vue.js
+Next.js
+Node.js
+Node
+Express
+Express.js
+Spring
+Spring Boot
+Django
+Flask
+FastAPI
+ASP.NET
+Laravel
+Ruby on Rails
+Git
+GitHub
+GitLab
+Docker
+Kubernetes
+Jenkins
+CI/CD
+Terraform
+Ansible
+AWS
+Azure
+GCP
+Google Cloud
+Machine Learning
+Deep Learning
+Artificial Intelligence
+NLP
+Natural Language Processing
+Computer Vision
+TensorFlow
+PyTorch
+Keras
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Seaborn
+OpenCV
+NLTK
+spaCy
+HuggingFace
+Cybersecurity
+Network Security
+Ethical Hacking
+Cryptography
+Linux
+Unix
+Windows Server
+Bash
+Shell Scripting
+PowerShell
+Computer Networks
+Data Structures
+Algorithms
+DBMS
+Operating Systems
+Object-Oriented Programming
+REST API
+GraphQL
+Microservices
+System Design
+Blockchain
+Solidity
+Ethereum
+Smart Contracts
+Web3
+Web3.js
+Kafka
+RabbitMQ
+Elasticsearch
+Tableau
+Power BI
+Excel
+Jira
+Agile
+Scrum

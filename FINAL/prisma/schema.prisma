@@ -1,0 +1,57 @@
+// Prisma Schema for Resume-to-Job Matching Platform
+// Uses SQLite for lightweight local database persistence
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Candidate {
+  id           String   @id @default(uuid())
+  name         String
+  email        String
+  phone        String
+  linkedin     String?
+  github       String?
+  education    String
+  experience   String
+  resumeFile   String
+  resumeFormat String
+  skills       String   // JSON string array of skills
+  keywords     String   // JSON string array of NLP keywords
+  rawText      String?
+  cleanedText  String?
+  createdAt    DateTime @default(now())
+  matches      Match[]
+}
+
+model Job {
+  id             String   @id @default(uuid())
+  title          String
+  company        String
+  description    String
+  requiredSkills String   // JSON string array of required skills
+  createdAt      DateTime @default(now())
+  matches        Match[]
+}
+
+model Match {
+  id             String    @id @default(uuid())
+  candidateId    String
+  jobId          String
+  matchingSkills String    // JSON string array
+  missingSkills  String    // JSON string array
+  matchScore     Float
+  rank           Int       @default(0)
+  shortlisted    Boolean   @default(false)
+  createdAt      DateTime  @default(now())
+
+  candidate      Candidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  job            Job       @relation(fields: [jobId], references: [id], onDelete: Cascade)
+
+  @@unique([candidateId, jobId])
+}

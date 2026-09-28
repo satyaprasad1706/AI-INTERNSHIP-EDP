@@ -1,0 +1,23 @@
+Job Title: AI & Data Science Engineer
+Company: Cognitive AI Labs
+Location: Hyderabad, India
+Experience: 2-4 years
+
+Job Description:
+Cognitive AI Labs is seeking an AI/ML Engineer to design, train, and deploy natural language processing and predictive machine learning models.
+
+Required Technical Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- Pandas
+- Scikit-learn
+- PyTorch
+- SQL
+- Git
+
+Key Responsibilities:
+- Clean and preprocess structured and unstructured text datasets.
+- Develop, evaluate, and fine-tune machine learning and deep learning models.
+- Deploy scalable inference pipelines for production analytics.

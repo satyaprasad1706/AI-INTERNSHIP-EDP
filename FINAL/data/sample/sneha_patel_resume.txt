@@ -1,0 +1,16 @@
+Sneha Patel
+Email: sneha.patel@example.com | Phone: +91 9922233445
+LinkedIn: https://linkedin.com/in/snehapatel-frontend | GitHub: https://github.com/snehapatel
+Education: B.E. in Computer Engineering, Mumbai University
+Experience: 2 years
+
+Professional Summary:
+Frontend Specialist passionate about modern reactive web apps and UI/UX design systems.
+
+Technical Skills:
+JavaScript, TypeScript, React, Next.js, HTML5, CSS3, Tailwind CSS, Redux, Git, REST API
+
+Key Projects & Experience:
+Created responsive dashboard UI components in React and Next.js with accessible Tailwind styling.
+- Utilized agile methodologies and version control for collaborative development.
+- Delivered robust software solutions adhering to clean code standards and system design principles.

@@ -1,0 +1,16 @@
+Ananya Roy
+Email: ananya.roy@example.com | Phone: +91 9830055667
+LinkedIn: https://linkedin.com/in/ananyaroy-data | GitHub: https://github.com/ananyaroy
+Education: M.Sc in Data Science, Calcutta University
+Experience: 2 years
+
+Professional Summary:
+Data Analyst and Machine Learning practitioner skilled in statistical inference and business reporting.
+
+Technical Skills:
+Python, SQL, Pandas, NumPy, Tableau, Power BI, Scikit-learn, Machine Learning, Excel, Git
+
+Key Projects & Experience:
+Built automated customer churn prediction model and Tableau executive dashboards.
+- Utilized agile methodologies and version control for collaborative development.
+- Delivered robust software solutions adhering to clean code standards and system design principles.

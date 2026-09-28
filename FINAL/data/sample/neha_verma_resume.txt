@@ -1,0 +1,16 @@
+Neha Verma
+Email: neha.verma@example.com | Phone: +91 9899123456
+LinkedIn: https://linkedin.com/in/nehaverma-fullstack | GitHub: https://github.com/nehaverma
+Education: B.Tech in Information Technology, IP University
+Experience: 3 years
+
+Professional Summary:
+Full Stack Developer proficient in Python, Django, React, and cloud deployment.
+
+Technical Skills:
+Python, Django, React, PostgreSQL, AWS, Git, REST API, Docker, JavaScript, HTML, CSS
+
+Key Projects & Experience:
+Architected multi-tenant SaaS portal with Django REST Framework and React.
+- Utilized agile methodologies and version control for collaborative development.
+- Delivered robust software solutions adhering to clean code standards and system design principles.
