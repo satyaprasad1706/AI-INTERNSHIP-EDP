@@ -80,3 +80,9 @@ Check out the full notes: [WEEK -6/README.md](file:///j:/EDP%20INTERNSHIP/WEEK%2
 - Applied configurable shortlisting criteria (`SHORTLIST_THRESHOLD = 70%` or `TOP_N = 10`).
 - Generated statistical summaries and score distribution analysis (90-100%, 80-89%, 70-79%, 60-69%, <60%).
 - Saved outputs to `output/ranked_candidates.csv` and `output/shortlisted_candidates.csv`.
+
+---
+
+## Project Status: Completed ✅
+
+Using the concepts learned and applied during these weekly logs, I have developed a full-fledged **Resume-to-Job Match Profile Website**. This application builds upon the NLP, machine learning, and data processing techniques explored throughout the internship to provide an automated, intelligent platform for matching candidates to job descriptions.
